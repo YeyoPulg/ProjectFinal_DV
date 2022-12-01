@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bala
+  - Jugador
+  - Limites
+  - Islas
+  - Obstaculo
+  - BalaEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Limits
+    uniqueID: 68454437
+    locked: 0
+  - name: Fond
+    uniqueID: 1189484281
+    locked: 0
+  - name: Island
+    uniqueID: 3273179267
+    locked: 0
+  - name: ObjectsIsland
+    uniqueID: 480322645
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1597348123
+    locked: 0
+  - name: ObjectColections
+    uniqueID: 2413493655
+    locked: 0
+  - name: Enemy
+    uniqueID: 2709393757
+    locked: 0
+  - name: Player
+    uniqueID: 2701155861
+    locked: 0
+  - name: Shoot
+    uniqueID: 2000937433
+    locked: 0
+  - name: Canva
+    uniqueID: 58717339
+    locked: 0
